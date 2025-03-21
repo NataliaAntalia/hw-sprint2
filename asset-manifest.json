@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/counter1/static/css/main.712763de.css",
-    "main.js": "/counter1/static/js/main.c467cf44.js",
-    "static/js/787.66cb4309.chunk.js": "/counter1/static/js/787.66cb4309.chunk.js",
-    "static/media/GPT.jpg": "/counter1/static/media/GPT.0f3c386c8b37e8d194e4.jpg",
-    "index.html": "/counter1/index.html",
-    "main.712763de.css.map": "/counter1/static/css/main.712763de.css.map",
-    "main.c467cf44.js.map": "/counter1/static/js/main.c467cf44.js.map",
-    "787.66cb4309.chunk.js.map": "/counter1/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/messanger-hw1/static/css/main.712763de.css",
+    "main.js": "/messanger-hw1/static/js/main.7293d1c1.js",
+    "static/js/787.66cb4309.chunk.js": "/messanger-hw1/static/js/787.66cb4309.chunk.js",
+    "static/media/GPT.jpg": "/messanger-hw1/static/media/GPT.0f3c386c8b37e8d194e4.jpg",
+    "index.html": "/messanger-hw1/index.html",
+    "main.712763de.css.map": "/messanger-hw1/static/css/main.712763de.css.map",
+    "main.7293d1c1.js.map": "/messanger-hw1/static/js/main.7293d1c1.js.map",
+    "787.66cb4309.chunk.js.map": "/messanger-hw1/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.712763de.css",
-    "static/js/main.c467cf44.js"
+    "static/js/main.7293d1c1.js"
   ]
 }
