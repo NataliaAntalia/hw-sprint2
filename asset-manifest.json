@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hws2/static/css/main.712763de.css",
+    "main.js": "/hws2/static/js/main.b1517325.js",
+    "static/js/787.66cb4309.chunk.js": "/hws2/static/js/787.66cb4309.chunk.js",
+    "static/media/GPT.jpg": "/hws2/static/media/GPT.0f3c386c8b37e8d194e4.jpg",
+    "index.html": "/hws2/index.html",
+    "main.712763de.css.map": "/hws2/static/css/main.712763de.css.map",
+    "main.b1517325.js.map": "/hws2/static/js/main.b1517325.js.map",
+    "787.66cb4309.chunk.js.map": "/hws2/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712763de.css",
+    "static/js/main.b1517325.js"
+  ]
+}
