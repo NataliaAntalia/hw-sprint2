@@ -7,11 +7,12 @@
     justify-content: space-around;
     flex-direction: column;
     border: 1px solid #322f2f;
+    margin: 10px 0 20px 0
 }
 
 .hwTitle {
     font-weight: bold;
-    margin: 10px 0;
+    /*margin: 20px 0*/
 }
 
 
