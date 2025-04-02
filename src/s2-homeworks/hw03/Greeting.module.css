@@ -1,10 +1,12 @@
 .greetingForm {
+    margin: 20px 0;
 }
 
 .inputAndButtonContainer {
 }
 
 .error {
+    color: red;
 }
 
 .input {
@@ -14,22 +16,39 @@
 }
 
 .errorInput {
+    border: 1px solid red;
+    outline: none;
+    border-radius: 2px;
 }
 
 .button {
+    margin-left: 10px;
+    padding: 2px 10px;
+    background-color: #0065ca;
+    color: white;
+    border-radius: 2px;
+    border: none;
 }
 
 .button:focus {
+    cursor: pointer;
 }
 
 .button:active {
+    background-color: #0065ca;
+    cursor: pointer;
+    border: none;
+
 }
 
 .button:disabled {
+    opacity: 0.5;
 }
 
 .text {
+    color: #7e7e7e;
 }
 
 .greeting {
+    font-size: 12px
 }
