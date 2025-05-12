@@ -15,7 +15,7 @@ type SuperSelectPropsType = DefaultSelectPropsType & {
     onChangeOption?: (option: any) => void
 }
 
-const SuperSelect: React.FC<SuperSelectPropsType> = ({
+export const SuperSelect: React.FC<SuperSelectPropsType> = ({
     options,
     className,
     onChange,
@@ -36,7 +36,18 @@ const SuperSelect: React.FC<SuperSelectPropsType> = ({
         : [] // map options with key
 
     const onChangeCallback = (e: ChangeEvent<HTMLSelectElement>) => {
-        // делают студенты
+        if (onChange) {
+            onChange(e)
+        }
+
+        const selectedOption = options?.find((option) => {
+            return String(option.id) === e.currentTarget.value
+        })
+
+        if (onChangeOption && selectedOption) {
+            onChangeOption(selectedOption)
+        }
+
     }
 
     const finalSelectClassName = s.select + (className ? ' ' + className : '')
@@ -52,4 +63,3 @@ const SuperSelect: React.FC<SuperSelectPropsType> = ({
     )
 }
 
-export default SuperSelect

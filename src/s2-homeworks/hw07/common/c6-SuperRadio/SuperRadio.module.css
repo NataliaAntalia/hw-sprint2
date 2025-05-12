@@ -1,15 +1,22 @@
 .radio {
 }
 
+
 .radio::before {
 }
 
 
 .radio:checked::before {
+
 }
 
 .label {
+    display: flex;
+    gap: 10px;
+    margin: 5px;
+
 }
 
 .options {
 }
+
