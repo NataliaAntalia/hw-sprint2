@@ -1,8 +1,22 @@
 .container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .wrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px;
 }
 
 .number {
+    font-size: 16px;
+    font-weight: 500;
+    min-width: 30px;
+}
+
+.Slider {
+    width: 150px;
+    color: #21cb5e !important;
 }
