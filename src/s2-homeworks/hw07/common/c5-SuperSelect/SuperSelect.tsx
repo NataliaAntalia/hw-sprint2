@@ -45,7 +45,7 @@ export const SuperSelect: React.FC<SuperSelectPropsType> = ({
         })
 
         if (onChangeOption && selectedOption) {
-            onChangeOption(selectedOption)
+            onChangeOption(selectedOption.id)
         }
 
     }
