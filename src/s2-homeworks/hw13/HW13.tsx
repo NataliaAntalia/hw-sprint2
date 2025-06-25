@@ -61,7 +61,7 @@ const HW13 = () => {
                     setCode('Error!')
                     setImage(errorUnknown)
                     setText(e.message || 'Неизвестная ошибка')
-                    setInfo('Что-то пошло не так...')
+                    setInfo('AxiosError')
                 } })
             .finally(() => {
                     setLoading(false)
