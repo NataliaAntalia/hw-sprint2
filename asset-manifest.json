@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hw-sprint2/static/css/main.ebfdc194.css",
+    "main.css": "/hw-sprint2/static/css/main.cab71cb4.css",
     "main.js": "/hw-sprint2/static/js/main.ef2db752.js",
     "static/js/787.66cb4309.chunk.js": "/hw-sprint2/static/js/787.66cb4309.chunk.js",
     "static/media/GPT.jpg": "/hw-sprint2/static/media/GPT.0f3c386c8b37e8d194e4.jpg",
@@ -14,12 +14,12 @@
     "static/media/checked.svg": "/hw-sprint2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/hw-sprint2/index.html",
     "static/media/burger.svg": "/hw-sprint2/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.ebfdc194.css.map": "/hw-sprint2/static/css/main.ebfdc194.css.map",
+    "main.cab71cb4.css.map": "/hw-sprint2/static/css/main.cab71cb4.css.map",
     "main.ef2db752.js.map": "/hw-sprint2/static/js/main.ef2db752.js.map",
     "787.66cb4309.chunk.js.map": "/hw-sprint2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebfdc194.css",
+    "static/css/main.cab71cb4.css",
     "static/js/main.ef2db752.js"
   ]
 }
